@@ -1,0 +1,262 @@
+2025-05-23 13:03:41 - Staff assignment request started - Array
+(
+    [POST] => Array
+        (
+            [order_id] => 1
+            [staff_id] => 1
+        )
+
+    [SESSION] => Array
+        (
+            [user_id] => 1
+            [user_name] => Administrator
+            [user_email] => admin@fantasticpandawa.com
+            [user_role] => admin
+            [is_admin] => 1
+            [last_activity] => 1748005421
+        )
+
+)
+
+2025-05-23 13:03:41 - Processing staff assignment - Array
+(
+    [order_id] => 1
+    [staff_id] => 1
+)
+
+2025-05-23 13:03:41 - Staff assignment updated - Array
+(
+    [success] => 1
+    [rows_updated] => 1
+)
+
+2025-05-23 13:03:46 - Staff assignment request started - Array
+(
+    [POST] => Array
+        (
+            [order_id] => 1
+            [staff_id] => 2
+        )
+
+    [SESSION] => Array
+        (
+            [user_id] => 1
+            [user_name] => Administrator
+            [user_email] => admin@fantasticpandawa.com
+            [user_role] => admin
+            [is_admin] => 1
+            [last_activity] => 1748005426
+            [success_message] => Pesanan berhasil ditugaskan kepada Administrator.
+        )
+
+)
+
+2025-05-23 13:03:46 - Processing staff assignment - Array
+(
+    [order_id] => 1
+    [staff_id] => 2
+)
+
+2025-05-23 13:03:46 - Staff assignment updated - Array
+(
+    [success] => 1
+    [rows_updated] => 1
+)
+
+2025-05-23 13:03:52 - Staff assignment request started - Array
+(
+    [POST] => Array
+        (
+            [order_id] => 1
+            [staff_id] => 3
+        )
+
+    [SESSION] => Array
+        (
+            [user_id] => 1
+            [user_name] => Administrator
+            [user_email] => admin@fantasticpandawa.com
+            [user_role] => admin
+            [is_admin] => 1
+            [last_activity] => 1748005432
+            [success_message] => Pesanan berhasil ditugaskan kepada Manager.
+        )
+
+)
+
+2025-05-23 13:03:52 - Processing staff assignment - Array
+(
+    [order_id] => 1
+    [staff_id] => 3
+)
+
+2025-05-23 13:03:52 - Staff assignment updated - Array
+(
+    [success] => 1
+    [rows_updated] => 1
+)
+
+2025-05-23 16:31:28 - Staff assignment request started - Array
+(
+    [POST] => Array
+        (
+            [order_id] => 4
+            [staff_id] => 
+        )
+
+    [SESSION] => Array
+        (
+            [user_id] => 1
+            [user_name] => Administrator
+            [user_email] => admin@fantasticpandawa.com
+            [user_role] => admin
+            [is_admin] => 1
+            [last_activity] => 1748017888
+            [success_message] => Status pesanan berhasil diperbarui menjadi Confirmed.
+        )
+
+)
+
+2025-05-23 16:31:28 - Processing staff assignment - Array
+(
+    [order_id] => 4
+    [staff_id] => 
+)
+
+2025-05-23 16:31:28 - Staff assignment updated - Array
+(
+    [success] => 1
+    [rows_updated] => 1
+)
+
+2025-05-23 16:31:34 - Staff assignment request started - Array
+(
+    [POST] => Array
+        (
+            [order_id] => 4
+            [staff_id] => 3
+        )
+
+    [SESSION] => Array
+        (
+            [user_id] => 1
+            [user_name] => Administrator
+            [user_email] => admin@fantasticpandawa.com
+            [user_role] => admin
+            [is_admin] => 1
+            [last_activity] => 1748017894
+            [success_message] => Penugasan staff berhasil dihapus.
+        )
+
+)
+
+2025-05-23 16:31:34 - Processing staff assignment - Array
+(
+    [order_id] => 4
+    [staff_id] => 3
+)
+
+2025-05-23 16:31:34 - Staff assignment updated - Array
+(
+    [success] => 1
+    [rows_updated] => 1
+)
+
+2025-05-23 17:33:24 - Staff assignment request started - Array
+(
+    [POST] => Array
+        (
+            [order_id] => 7
+            [staff_id] => 3
+        )
+
+    [SESSION] => Array
+        (
+            [user_id] => 1
+            [user_name] => Administrator
+            [user_email] => admin@fantasticpandawa.com
+            [user_role] => admin
+            [is_admin] => 1
+            [last_activity] => 1748021604
+            [success_message] => Status pesanan berhasil diperbarui menjadi Processing.
+        )
+
+)
+
+2025-05-23 17:33:24 - Processing staff assignment - Array
+(
+    [order_id] => 7
+    [staff_id] => 3
+)
+
+2025-05-23 17:33:24 - Staff assignment updated - Array
+(
+    [success] => 1
+    [rows_updated] => 1
+)
+
+2025-05-23 18:50:28 - Staff assignment request started - Array
+(
+    [POST] => Array
+        (
+            [order_id] => 8
+            [staff_id] => 3
+        )
+
+    [SESSION] => Array
+        (
+            [user_id] => 1
+            [user_name] => Administrator
+            [user_email] => admin@fantasticpandawa.com
+            [user_role] => admin
+            [is_admin] => 1
+            [last_activity] => 1748026228
+        )
+
+)
+
+2025-05-23 18:50:28 - Processing staff assignment - Array
+(
+    [order_id] => 8
+    [staff_id] => 3
+)
+
+2025-05-23 18:50:28 - Staff assignment updated - Array
+(
+    [success] => 1
+    [rows_updated] => 1
+)
+
+2025-05-23 23:32:01 - Staff assignment request started - Array
+(
+    [POST] => Array
+        (
+            [order_id] => 11
+            [staff_id] => 3
+        )
+
+    [SESSION] => Array
+        (
+            [user_id] => 1
+            [user_name] => Administrator
+            [user_email] => admin@fantasticpandawa.com
+            [user_role] => admin
+            [is_admin] => 1
+            [last_activity] => 1748043121
+            [success_message] => Status pesanan berhasil diperbarui menjadi Processing.
+        )
+
+)
+
+2025-05-23 23:32:01 - Processing staff assignment - Array
+(
+    [order_id] => 11
+    [staff_id] => 3
+)
+
+2025-05-23 23:32:01 - Staff assignment updated - Array
+(
+    [success] => 1
+    [rows_updated] => 1
+)
+

@@ -1,0 +1,32 @@
+2025-05-23 13:20:37 - Staff assignment request started - Array
+(
+    [POST] => Array
+        (
+            [order_id] => 1
+            [staff_id] => 3
+        )
+
+    [SESSION] => Array
+        (
+            [user_id] => 1
+            [user_name] => Administrator
+            [user_email] => admin@fantasticpandawa.com
+            [user_role] => admin
+            [is_admin] => 1
+            [last_activity] => 1748006437
+        )
+
+)
+
+2025-05-23 13:20:37 - Processing staff assignment - Array
+(
+    [order_id] => 1
+    [staff_id] => 3
+)
+
+2025-05-23 13:20:37 - Staff assignment updated - Array
+(
+    [success] => 1
+    [rows_updated] => 1
+)
+

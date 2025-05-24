@@ -1,0 +1,473 @@
+2025-05-23 12:59:30 - Status update request started - Array
+(
+    [POST] => Array
+        (
+            [order_id] => 1
+            [new_status] => confirmed
+            [notes] => 
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [SESSION] => Array
+        (
+            [user_id] => 1
+            [user_name] => Administrator
+            [user_email] => admin@fantasticpandawa.com
+            [user_role] => admin
+            [is_admin] => 1
+            [last_activity] => 1748005170
+        )
+
+)
+
+2025-05-23 12:59:30 - Processing update - Array
+(
+    [order_id] => 1
+    [new_status] => confirmed
+    [notes] => 
+    [user_id] => 1
+)
+
+2025-05-23 12:59:30 - Transaction started
+2025-05-23 12:59:30 - Order status updated - Array
+(
+    [success] => 1
+    [rows_updated] => 1
+)
+
+2025-05-23 12:59:30 - History record created - Array
+(
+    [success] => 1
+    [rows_inserted] => 1
+)
+
+2025-05-23 12:59:30 - Transaction committed successfully
+2025-05-23 13:05:03 - Status update request started - Array
+(
+    [POST] => Array
+        (
+            [order_id] => 1
+            [new_status] => ready
+            [notes] => 
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [SESSION] => Array
+        (
+            [user_id] => 1
+            [user_name] => Administrator
+            [user_email] => admin@fantasticpandawa.com
+            [user_role] => admin
+            [is_admin] => 1
+            [last_activity] => 1748005503
+        )
+
+)
+
+2025-05-23 13:05:03 - Processing update - Array
+(
+    [order_id] => 1
+    [new_status] => ready
+    [notes] => 
+    [user_id] => 1
+)
+
+2025-05-23 13:05:03 - Transaction started
+2025-05-23 13:05:03 - Order status updated - Array
+(
+    [success] => 1
+    [rows_updated] => 1
+)
+
+2025-05-23 13:05:03 - History record created - Array
+(
+    [success] => 1
+    [rows_inserted] => 1
+)
+
+2025-05-23 13:05:03 - Transaction committed successfully
+2025-05-23 13:05:09 - Status update request started - Array
+(
+    [POST] => Array
+        (
+            [order_id] => 1
+            [new_status] => completed
+            [notes] => 
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [SESSION] => Array
+        (
+            [user_id] => 1
+            [user_name] => Administrator
+            [user_email] => admin@fantasticpandawa.com
+            [user_role] => admin
+            [is_admin] => 1
+            [last_activity] => 1748005509
+            [success_message] => Status pesanan berhasil diperbarui menjadi Ready.
+        )
+
+)
+
+2025-05-23 13:05:09 - Processing update - Array
+(
+    [order_id] => 1
+    [new_status] => completed
+    [notes] => 
+    [user_id] => 1
+)
+
+2025-05-23 13:05:09 - Transaction started
+2025-05-23 13:05:09 - Order status updated - Array
+(
+    [success] => 1
+    [rows_updated] => 1
+)
+
+2025-05-23 13:05:09 - History record created - Array
+(
+    [success] => 1
+    [rows_inserted] => 1
+)
+
+2025-05-23 13:05:09 - Transaction committed successfully
+2025-05-23 13:29:20 - Status update request started - Array
+(
+    [POST] => Array
+        (
+            [order_id] => 2
+            [new_status] => completed
+            [notes] => 
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [SESSION] => Array
+        (
+            [user_id] => 1
+            [user_name] => Administrator
+            [user_email] => admin@fantasticpandawa.com
+            [user_role] => admin
+            [is_admin] => 1
+            [last_activity] => 1748006960
+        )
+
+)
+
+2025-05-23 13:29:20 - Processing update - Array
+(
+    [order_id] => 2
+    [new_status] => completed
+    [notes] => 
+    [user_id] => 1
+)
+
+2025-05-23 13:29:20 - Transaction started
+2025-05-23 13:29:20 - Order status updated - Array
+(
+    [success] => 1
+    [rows_updated] => 1
+)
+
+2025-05-23 13:29:20 - History record created - Array
+(
+    [success] => 1
+    [rows_inserted] => 1
+)
+
+2025-05-23 13:29:20 - Transaction committed successfully
+2025-05-23 16:31:24 - Status update request started - Array
+(
+    [POST] => Array
+        (
+            [order_id] => 4
+            [new_status] => confirmed
+            [notes] => 
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [SESSION] => Array
+        (
+            [user_id] => 1
+            [user_name] => Administrator
+            [user_email] => admin@fantasticpandawa.com
+            [user_role] => admin
+            [is_admin] => 1
+            [last_activity] => 1748017884
+        )
+
+)
+
+2025-05-23 16:31:24 - Processing update - Array
+(
+    [order_id] => 4
+    [new_status] => confirmed
+    [notes] => 
+    [user_id] => 1
+)
+
+2025-05-23 16:31:24 - Transaction started
+2025-05-23 16:31:24 - Order status updated - Array
+(
+    [success] => 1
+    [rows_updated] => 1
+)
+
+2025-05-23 16:31:24 - History record created - Array
+(
+    [success] => 1
+    [rows_inserted] => 1
+)
+
+2025-05-23 16:31:24 - Transaction committed successfully
+2025-05-23 17:33:21 - Status update request started - Array
+(
+    [POST] => Array
+        (
+            [order_id] => 7
+            [new_status] => processing
+            [notes] => 
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [SESSION] => Array
+        (
+            [user_id] => 1
+            [user_name] => Administrator
+            [user_email] => admin@fantasticpandawa.com
+            [user_role] => admin
+            [is_admin] => 1
+            [last_activity] => 1748021601
+        )
+
+)
+
+2025-05-23 17:33:21 - Processing update - Array
+(
+    [order_id] => 7
+    [new_status] => processing
+    [notes] => 
+    [user_id] => 1
+)
+
+2025-05-23 17:33:21 - Transaction started
+2025-05-23 17:33:21 - Order status updated - Array
+(
+    [success] => 1
+    [rows_updated] => 1
+)
+
+2025-05-23 17:33:21 - History record created - Array
+(
+    [success] => 1
+    [rows_inserted] => 1
+)
+
+2025-05-23 17:33:21 - Transaction committed successfully
+2025-05-23 17:33:29 - Status update request started - Array
+(
+    [POST] => Array
+        (
+            [order_id] => 7
+            [new_status] => completed
+            [notes] => 
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [SESSION] => Array
+        (
+            [user_id] => 1
+            [user_name] => Administrator
+            [user_email] => admin@fantasticpandawa.com
+            [user_role] => admin
+            [is_admin] => 1
+            [last_activity] => 1748021609
+            [success_message] => Pesanan berhasil ditugaskan kepada Staff Operator.
+        )
+
+)
+
+2025-05-23 17:33:29 - Processing update - Array
+(
+    [order_id] => 7
+    [new_status] => completed
+    [notes] => 
+    [user_id] => 1
+)
+
+2025-05-23 17:33:29 - Transaction started
+2025-05-23 17:33:29 - Order status updated - Array
+(
+    [success] => 1
+    [rows_updated] => 1
+)
+
+2025-05-23 17:33:29 - History record created - Array
+(
+    [success] => 1
+    [rows_inserted] => 1
+)
+
+2025-05-23 17:33:29 - Transaction committed successfully
+2025-05-23 18:50:33 - Status update request started - Array
+(
+    [POST] => Array
+        (
+            [order_id] => 8
+            [new_status] => processing
+            [notes] => 
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [SESSION] => Array
+        (
+            [user_id] => 1
+            [user_name] => Administrator
+            [user_email] => admin@fantasticpandawa.com
+            [user_role] => admin
+            [is_admin] => 1
+            [last_activity] => 1748026233
+            [success_message] => Pesanan berhasil ditugaskan kepada Staff Operator.
+        )
+
+)
+
+2025-05-23 18:50:33 - Processing update - Array
+(
+    [order_id] => 8
+    [new_status] => processing
+    [notes] => 
+    [user_id] => 1
+)
+
+2025-05-23 18:50:33 - Transaction started
+2025-05-23 18:50:33 - Order status updated - Array
+(
+    [success] => 1
+    [rows_updated] => 1
+)
+
+2025-05-23 18:50:33 - History record created - Array
+(
+    [success] => 1
+    [rows_inserted] => 1
+)
+
+2025-05-23 18:50:33 - Transaction committed successfully
+2025-05-23 23:31:58 - Status update request started - Array
+(
+    [POST] => Array
+        (
+            [order_id] => 11
+            [new_status] => processing
+            [notes] => 
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [SESSION] => Array
+        (
+            [user_id] => 1
+            [user_name] => Administrator
+            [user_email] => admin@fantasticpandawa.com
+            [user_role] => admin
+            [is_admin] => 1
+            [last_activity] => 1748043118
+        )
+
+)
+
+2025-05-23 23:31:58 - Processing update - Array
+(
+    [order_id] => 11
+    [new_status] => processing
+    [notes] => 
+    [user_id] => 1
+)
+
+2025-05-23 23:31:58 - Transaction started
+2025-05-23 23:31:58 - Order status updated - Array
+(
+    [success] => 1
+    [rows_updated] => 1
+)
+
+2025-05-23 23:31:58 - History record created - Array
+(
+    [success] => 1
+    [rows_inserted] => 1
+)
+
+2025-05-23 23:31:58 - Transaction committed successfully
+2025-05-23 23:32:12 - Status update request started - Array
+(
+    [POST] => Array
+        (
+            [order_id] => 11
+            [new_status] => completed
+            [notes] => 
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [SESSION] => Array
+        (
+            [user_id] => 1
+            [user_name] => Administrator
+            [user_email] => admin@fantasticpandawa.com
+            [user_role] => admin
+            [is_admin] => 1
+            [last_activity] => 1748043132
+        )
+
+)
+
+2025-05-23 23:32:12 - Processing update - Array
+(
+    [order_id] => 11
+    [new_status] => completed
+    [notes] => 
+    [user_id] => 1
+)
+
+2025-05-23 23:32:12 - Transaction started
+2025-05-23 23:32:12 - Order status updated - Array
+(
+    [success] => 1
+    [rows_updated] => 1
+)
+
+2025-05-23 23:32:12 - History record created - Array
+(
+    [success] => 1
+    [rows_inserted] => 1
+)
+
+2025-05-23 23:32:12 - Transaction committed successfully

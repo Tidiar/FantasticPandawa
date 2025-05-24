@@ -1,0 +1,96 @@
+2025-05-23 13:27:25 - POST data received - Array
+(
+)
+
+2025-05-23 13:27:25 - Error: Missing order_id parameter
+2025-05-23 13:27:31 - POST data received - Array
+(
+    [order_id] => 1
+    [new_status] => confirmed
+    [notes] => 
+)
+
+2025-05-23 13:27:31 - Processing update - Array
+(
+    [order_id] => 1
+    [new_status] => confirmed
+    [notes] => 
+    [user_id] => 1
+    [redirect_to] => detail
+)
+
+2025-05-23 13:27:31 - Transaction started
+2025-05-23 13:27:31 - Order status updated - Array
+(
+    [success] => 1
+    [rows_updated] => 1
+)
+
+2025-05-23 13:27:31 - History record created - Array
+(
+    [success] => 1
+    [rows_inserted] => 1
+)
+
+2025-05-23 13:27:31 - Transaction committed successfully
+2025-05-23 13:28:01 - POST data received - Array
+(
+    [order_id] => 1
+    [redirect_to] => list
+    [new_status] => completed
+    [notes] => 
+)
+
+2025-05-23 13:28:01 - Processing update - Array
+(
+    [order_id] => 1
+    [new_status] => completed
+    [notes] => 
+    [user_id] => 1
+    [redirect_to] => list
+)
+
+2025-05-23 13:28:01 - Transaction started
+2025-05-23 13:28:01 - Order status updated - Array
+(
+    [success] => 1
+    [rows_updated] => 1
+)
+
+2025-05-23 13:28:01 - History record created - Array
+(
+    [success] => 1
+    [rows_inserted] => 1
+)
+
+2025-05-23 13:28:01 - Transaction committed successfully
+2025-05-23 13:28:40 - POST data received - Array
+(
+    [order_id] => 2
+    [new_status] => completed
+    [notes] => 
+)
+
+2025-05-23 13:28:40 - Processing update - Array
+(
+    [order_id] => 2
+    [new_status] => completed
+    [notes] => 
+    [user_id] => 1
+    [redirect_to] => detail
+)
+
+2025-05-23 13:28:40 - Transaction started
+2025-05-23 13:28:40 - Order status updated - Array
+(
+    [success] => 1
+    [rows_updated] => 1
+)
+
+2025-05-23 13:28:40 - History record created - Array
+(
+    [success] => 1
+    [rows_inserted] => 1
+)
+
+2025-05-23 13:28:40 - Transaction committed successfully

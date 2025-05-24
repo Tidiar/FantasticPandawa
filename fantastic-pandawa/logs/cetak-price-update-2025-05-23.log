@@ -1,0 +1,99 @@
+2025-05-23 13:20:27 - Price update request started - Array
+(
+    [POST] => Array
+        (
+            [order_id] => 1
+            [redirect_to] => list
+            [new_status] => confirmed
+            [notes] => 
+        )
+
+    [SESSION] => Array
+        (
+            [user_id] => 1
+            [user_name] => Administrator
+            [user_email] => admin@fantasticpandawa.com
+            [user_role] => admin
+            [is_admin] => 1
+            [last_activity] => 1748006427
+        )
+
+)
+
+2025-05-23 13:20:27 - Error: Missing parameters
+2025-05-23 13:20:40 - Price update request started - Array
+(
+    [POST] => Array
+        (
+            [order_id] => 1
+            [new_status] => processing
+            [notes] => 
+        )
+
+    [SESSION] => Array
+        (
+            [user_id] => 1
+            [user_name] => Administrator
+            [user_email] => admin@fantasticpandawa.com
+            [user_role] => admin
+            [is_admin] => 1
+            [last_activity] => 1748006440
+        )
+
+)
+
+2025-05-23 13:20:40 - Error: Missing parameters
+2025-05-23 13:20:56 - Price update request started - Array
+(
+    [POST] => Array
+        (
+            [order_id] => 1
+            [new_status] => ready
+            [notes] => 
+        )
+
+    [SESSION] => Array
+        (
+            [user_id] => 1
+            [user_name] => Administrator
+            [user_email] => admin@fantasticpandawa.com
+            [user_role] => admin
+            [is_admin] => 1
+            [last_activity] => 1748006456
+        )
+
+)
+
+2025-05-23 13:20:56 - Error: Missing parameters
+2025-05-23 13:28:12 - Price update request started - Array
+(
+    [POST] => Array
+        (
+            [order_id] => 1
+            [price] => 151000
+        )
+
+    [SESSION] => Array
+        (
+            [user_id] => 1
+            [user_name] => Administrator
+            [user_email] => admin@fantasticpandawa.com
+            [user_role] => admin
+            [is_admin] => 1
+            [last_activity] => 1748006892
+        )
+
+)
+
+2025-05-23 13:28:12 - Processing price update - Array
+(
+    [order_id] => 1
+    [price] => 151000
+)
+
+2025-05-23 13:28:12 - Price updated - Array
+(
+    [success] => 1
+    [rows_updated] => 1
+)
+
