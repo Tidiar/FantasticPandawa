@@ -173,7 +173,7 @@ include '../includes/header.php';
     <div class="container">
         <!-- Back button -->
         <div class="mb-4">
-            <a href="../user/orders.php" class="btn btn-outline-primary">
+            <a href="../user/orders.php" class="btn btn-primary quick-action-btn">
                 <i class="fas fa-arrow-left me-2"></i>Kembali ke Daftar Pesanan
             </a>
         </div>
