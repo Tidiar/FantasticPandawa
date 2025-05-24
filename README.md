@@ -11,21 +11,21 @@
       <br>
       NPM: 2271020157
       <br>
-      <small>Kelas: Sistem Informasi 6E </small>
+      <small>Kelas: Sistem Informasi 6E</small>
     </td>
     <td align="center">
-      <b>Nama Anggota 2</b>
+      <b>Saifah Beutty Sariani Ritonga</b>
       <br>
-      NPM: 123456789
+      NPM: 2271020154
       <br>
-      <small>Kelas: IF-4A</small>
+      <small>Kelas: Sistem Informasi 6E</small>
     </td>
     <td align="center">
-      <b>Nama Anggota 3</b>
+      <b>Uswatun Amanah</b>
       <br>
-      NPM: 123456789
+      NPM: 2271020158
       <br>
-      <small>Kelas: IF-4A</small>
+      <small>Kelas: Sistem Informasi 6E</small>
     </td>
   </tr>
 </table>
